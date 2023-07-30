@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "Home",
+        "sections" : ["Our Values", "Campaigns"]
+    },
+    {
+        "name" : "Who We Are",
+        "sections" : ["Our Values", "Campaigns"]
+    },
+    {
+        "name" : "Our Work",
+        "sections" : ["Campaigns"]     
+    },
+    {
+        "name" : "Take Action",
+        "sections" : ["Donate", "Volunteer"]  
+    },
+    {
+        "name" : "At Risk Map",
+        "sections" : ["Donate", "Volunteer"] 
+    }
+]

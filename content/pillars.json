@@ -1,0 +1,14 @@
+[
+    {
+        "name" : "Education",
+        "svg-color" : "#FFBD59"
+    },
+    {
+        "name" : "Health",
+        "svg-color" : "#43B1EE"
+    },
+    {
+        "name" : "Welfare",
+        "svg-color" : "#fff"
+    }
+]

@@ -1,0 +1,27 @@
+.connect {
+    padding: 6vh 12vw;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    align-items: center;
+}
+
+.connect img {
+    width: 50%;
+    border-radius: 8px;
+}
+
+@media screen and (max-width: 960px) {
+    .connect {
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        row-gap: 20px;
+    }
+    
+    .connect img {
+        width: 100%;
+    }
+}
