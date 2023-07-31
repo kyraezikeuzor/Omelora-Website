@@ -1,5 +1,6 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
+import Head from 'next/head'
 
 import Navbar from '../components/Global/Navbar';
 import Footer from '../components/Global/Footer';
@@ -18,6 +19,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <Head>
+        <link href="https://api.fontshare.com/v2/css?f[]=zodiak@101&display=swap" rel="stylesheet"/>
+      </Head>
       <body className={inter.className}>
         <Navbar/>
         {children}

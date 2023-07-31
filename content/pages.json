@@ -14,9 +14,5 @@
     {
         "name" : "Take Action",
         "sections" : ["Donate", "Volunteer"]  
-    },
-    {
-        "name" : "At Risk Map",
-        "sections" : ["Donate", "Volunteer"] 
     }
 ]

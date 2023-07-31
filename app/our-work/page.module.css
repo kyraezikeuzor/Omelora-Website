@@ -1,0 +1,13 @@
+.main header {
+    padding: 12vh 12vw;
+    position: relative;
+}
+
+
+.campaigns {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 6vh 6vw;
+}

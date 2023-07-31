@@ -1,0 +1,21 @@
+.main header {
+    padding: 12vh 12vw;
+    position: relative;
+}
+
+.main b {
+    color: #628B21;
+}
+
+.main i {
+    font-family: 'Zodiak', serif;
+    font-weight: 300;
+}
+
+.main header img {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    left: 32px;
+    top: 200px;
+}

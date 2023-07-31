@@ -17,10 +17,6 @@
     z-index: 1;
     
 }
-
-.navbar * {
-  color: white;
-}
   
 .navbar-container {
     display: flex;
@@ -54,7 +50,7 @@
 }
   
 .nav-links {
-    color: white;
+    color:white;
     display: flex;
     align-items: center;
     text-decoration: none;
