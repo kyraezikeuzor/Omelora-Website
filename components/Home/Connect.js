@@ -8,7 +8,7 @@ export default function Connect() {
     <div className={style["connect"]}>
         <div>
             <h2>Connect with us on social media</h2>
-            <p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque.</p>
+            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque.</p>
             <Socials/>
         </div>
 

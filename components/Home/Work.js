@@ -7,7 +7,7 @@ export default function Work() {
     <div className={style["work"]}>
         <div className={style["work-text-container"]}>
             <h2>Our Work</h2>
-            <p>"At vero eos et accusamus et iusto odio dignissimos 
+            <p>At vero eos et accusamus et iusto odio dignissimos 
                 ducimus qui blanditiis praesentium voluptatum deleniti 
                 atque corrupti quos dolores et quas molestias excepturi 
                 sint occaecati cupiditate non provident, similique sunt in 
