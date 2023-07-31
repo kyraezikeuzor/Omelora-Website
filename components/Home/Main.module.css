@@ -22,8 +22,8 @@
     text-align: left;
     justify-content: center;
     align-items: center;
-    column-gap: 20px;
-    row-gap: 20px;
+    column-gap: 50px;
+    row-gap: 50px;
 }
 
 .support-section img {

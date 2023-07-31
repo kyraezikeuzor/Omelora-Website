@@ -7,7 +7,7 @@ export default function Connect() {
   return (
     <div className={style["connect"]}>
         <div>
-            <h2>Connect with us on social media</h2>
+            <h2>Keep in touch on social media</h2>
             <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque.</p>
             <Socials/>
         </div>
