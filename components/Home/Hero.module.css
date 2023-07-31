@@ -39,6 +39,7 @@
 
     .hero-text-container {
         width: 100%;
+        height: auto;
         order: 2;
         margin-top: 0;
     }
