@@ -40,8 +40,8 @@
 
     .hero-text-container {
         order: 2;
-        width: 326px;
-        margin-top: 0;
+        width: 100%;
+        margin: 0;
         background-color: blue;
     }
 
@@ -50,10 +50,10 @@
         order: 1;
         width: 326px;
         height: 201px;
-        padding-right: 0;
+        padding: 0;
         align-self: center;
         justify-self: flex-start;
-        margin-bottom: 0;
+        margin: 0;
     }
 }
 
