@@ -44,6 +44,8 @@
     }
 
     .hero img {
+        width: 326px;
+        height: 200.806px;
         align-self: start;
         order: 1;
         margin-bottom: 0;
