@@ -35,6 +35,7 @@
         align-items: center;
         padding: 12vh 12vw;
         margin-bottom: 20px;
+        background-color: violet;
     }
 
     .hero-text-container {
@@ -44,9 +45,11 @@
         padding: 0;
         align-self: center;
         justify-self: center;
+        background-color: blue;
     }
 
     .hero img {
+        background-color: red;
         order: 1;
         width: 326px;
         height: 201px;
