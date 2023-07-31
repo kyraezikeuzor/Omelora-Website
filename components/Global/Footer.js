@@ -7,9 +7,7 @@ import pages from 'content/pages.json'
 export default function Footer() {
   return (
     <div className={style["footer"]}>
-        <div className={style["footer-logo"]}>
-            <Logo/>
-        </div>
+        <Logo/>
         <p>Creating a better world, one cause at a time</p>
         <span/>
         <Socials/>

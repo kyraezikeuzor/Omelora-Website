@@ -53,7 +53,10 @@ function Navbar() {
         <nav className={styles.navbar}>
           
             <div className={styles["navbar-container"]}>
-                <Logo onClick={closeMobileMenu}/>
+                <div className={styles["nav-logo"]}>
+                  <Logo onClick={closeMobileMenu}/>
+                </div>
+                
 
                 <div className={styles["menu-icon"]} onClick={handleClick}>
                   

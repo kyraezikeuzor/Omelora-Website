@@ -34,6 +34,7 @@
         margin-bottom: 20px;
         justify-content: center;
         align-items: center;
+        padding: 12vh 12vw;
     }
 
     .hero-text-container {
@@ -44,7 +45,7 @@
 
     .hero img {
         align-self: start;
-        width: 80%;
+        width: 100%;
         order: 1;
         margin-bottom: 0;
     }
