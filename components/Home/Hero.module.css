@@ -39,7 +39,6 @@
 
     .hero-text-container {
         width: 100%;
-        height: auto;
         order: 2;
         margin-top: 0;
     }
@@ -47,6 +46,7 @@
     .hero img {
         align-self: start;
         width: 100%;
+        height: auto;
         order: 1;
         margin-bottom: 0;
     }
