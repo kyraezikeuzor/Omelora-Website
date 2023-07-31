@@ -47,7 +47,7 @@
         align-self: start;
         
         width: auto;
-        height: auto;
+        height: 100%;
         order: 1;
         margin-bottom: 0;
     }
