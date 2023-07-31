@@ -7,6 +7,8 @@
 .campaigns {
     display: flex;
     flex-direction: row;
+    align-items: center;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 20px;
     padding: 6vh 6vw;
